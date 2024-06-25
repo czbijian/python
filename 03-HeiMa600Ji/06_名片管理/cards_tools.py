@@ -1,3 +1,4 @@
+#! C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps\python3.exe
 # 记录所有的名字字典
 card_list = []
 def show_menu():

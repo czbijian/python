@@ -1,3 +1,5 @@
+#！D:\ProgramData\Python3.9.13\python.exe
+
 import cards_tools
 while True:
     # 显示功能菜单
